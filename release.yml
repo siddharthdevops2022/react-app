@@ -1,0 +1,15 @@
+name: Notify on release
+on: 
+  release:
+    types: [published]
+
+jobs:
+  slack-message:
+    runs-on: ububtu-latest
+    steps:
+      - name: Test
+        run: echo "This is sidd" 
+    
+    
+    
+    
