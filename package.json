@@ -47,4 +47,9 @@
         "prettier": "^2.5.1",
         "semantic-release": "^18.0.1"
     },
+    "config": {
+        "commitizen": {
+            "path": "./node_modules/cz-conventional-changelog"
+        }
+    }
 }
