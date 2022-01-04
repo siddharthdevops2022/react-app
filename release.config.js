@@ -11,6 +11,6 @@ module.exports = {
 			{ path: "build.zip", label: "Build"},
 			{ path: "coverage.zip", label: "Coverage"}
 			]
-		 }
-		]
+		 } ]
+]
 };
